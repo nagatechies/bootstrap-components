@@ -11,7 +11,7 @@ This repository contains a collection of ready-to-use Bootstrap components desig
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/nagatechies/bootstrap-components.git`
 2. Include the component files in your project.
-3. Follow the documentation to customize and implement the components.
+3. Inspect and Copy your desired components.
 
 ## Contributions
 Feel free to contribute by submitting pull requests, opening issues, or suggesting new components. Let’s make web development faster and easier together!
