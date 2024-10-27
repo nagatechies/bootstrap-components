@@ -1,3 +1,17 @@
 .carousel-caption {
     background-color: rgb(0, 0, 0, 0.50);
 }
+.click {
+    display: inline-block;
+    padding: 6px 18px;
+    background-color: #ff4f4f;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 2px;
+    font-size: 1rem;
+  }
+  .click:hover {
+    background-color: #bb5632;
+    text-decoration: none;
+    color: #ffffff;
+  }
